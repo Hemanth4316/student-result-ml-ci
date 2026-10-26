@@ -1,6 +1,0 @@
-
-Student Result Prediction ML Application
-
-Run: python app.py
-
-Endpoint: POST /predict
